@@ -54,18 +54,11 @@ Now make **one small improvement** to the project.
 
 You can choose one:
 
-Add your name to:
+Add your name and favortie programming language to:
 contributors.md
 
 Add a project idea to:
 ideas.md
-
-Add a feature to:
-features.md
-
-Improve the README
-
-Fix formatting somewhere
 
 Add a short message somewhere in the project.
 
