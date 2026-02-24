@@ -1,3 +1,5 @@
-# testing
+# CS Club Project
 
-Hello World!
+This project is a simple app idea.
+
+Help improve this repository!
